@@ -4,7 +4,8 @@
   "main": "server.js",
   "scripts": {
     "dev": "nodemon -r esm server.js",
-    "start": "node -r esm server.js"
+    "start": "node -r esm server.js",
+    "test": "react-scripts test"
   },
   "author": "Mirza Nouman",
   "license": "MIT",
